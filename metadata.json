@@ -1,0 +1,6 @@
+{
+  "name": "AuraDraw XR - Next-Gen Gesture Canvas & AI Studio",
+  "description": "State-of-the-art real-time hand gesture drawing software with holographic AR skeleton tracking, cyber glow brushes, Catmull-Rom smoothing, smart shape recognition, and AI multimodal intelligence.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
